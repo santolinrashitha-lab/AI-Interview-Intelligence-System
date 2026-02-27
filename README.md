@@ -213,7 +213,7 @@ DATA_PATH=data/interview_history/
 ![Question Display](Assets/Question_display.png)
 
 ### 📝 Answer Section
-![Answer](Assets/Answer.png)
+![image alt](https://github.com/santolinrashitha-lab/AI-Interview-Intelligence-System/blob/main/Answer.png?raw=true)
 
 ### 📊 Score Output
 ![Score](Assets/Score.png)
