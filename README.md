@@ -204,31 +204,32 @@ DATA_PATH=data/interview_history/
 ## 📸 Application Screenshots
 
 ### 🖥 Main Interface
-![Main UI](Assets/UI.PNG)
+![Main UI](Assets/UI.png)
 
 ### 🎯 Select Interview Round
-![Select Interview Round](Assets/Select_Interview_Round.PNG)
+![Select Interview Round](Assets/Select_Interview_Round.png)
 
 ### ❓ Question Display
-![Question Display](Assets/Question_Display.PNG)
+![Question Display](Assets/Question_display.png)
 
 ### 📝 Answer Section
-![Answer](Assets/Answer.PNG)
+![Answer](Assets/Answer.png)
 
 ### 📊 Score Output
-![Score](Assets/Score.PNG)
+![Score](Assets/Score.png)
 
 ### 🔄 Change Role Feature
-![Change Role](Assets/Change_Role.PNG)
+![Change Role](Assets/Change_Role.png)
 
 ### ✨ Improved Answer Suggestion
-![Improved Answer](Assets/Improved_Answer.PNG)
+![Improved Answer](Assets/Improved_Answer.png)
 
 ### 📈 Overall Performance Summary
-![Overall Performance](Assets/Overall_Performance.PNG)
+![Overall Performance](Assets/Overall_Performance.png)
 
 ### 📊 Performance Dashboard
-![Performance Dashboard](Assets/Performance_Dashboard.PNG)
+![Performance Dashboard](Assets/Performance_Dashboard.png)
 
 ### 💪 Strength & Weakness Analysis
-![Strength Weakness](Assets/Strength_Weakness.PNG)
+![Strength Weakness](Assets/Strength_Weakness.png)
+
