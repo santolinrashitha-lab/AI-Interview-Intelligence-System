@@ -200,3 +200,29 @@ DATA_PATH=data/interview_history/
 - Extensible data layer for future database integration
 - Structured scoring logic for explainable AI feedback
 - Clean separation of concerns for maintainability
+
+## 📸 Application Screenshots
+
+### 🖥️ Main Interface
+![UI](Assets/UI.png)
+
+### 🎯 Select Interview Round
+![Select Round](Assets/Select_Interview_Round.png)
+
+### ❓ Question Display
+![Question](Assets/Question_display.png)
+
+### ✍️ Answer Evaluation
+![Answer](Assets/Answer.png)
+
+### 📊 Score
+![Score](Assets/Score.png)
+
+### 📈 Performance Dashboard
+![Dashboard](Assets/Performance_Dashboard.png)
+
+### 💪 Strength & Weakness Analysis
+![Strength](Assets/Strength_Weakness.png)
+
+### 🏁 Overall Performance
+![Overall](Assets/Overall_Performance.png)
