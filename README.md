@@ -201,35 +201,14 @@ DATA_PATH=data/interview_history/
 - Structured scoring logic for explainable AI feedback
 - Clean separation of concerns for maintainability
 
-## 📸 Application Screenshots
+## Application Screenshots
 
-### 🖥 Main Interface
-![Main UI](Assets/UI.png)
-
-### 🎯 Select Interview Round
+![UI](Assets/UI.png)
 ![Select Interview Round](Assets/Select_Interview_Round.png)
-
-### ❓ Question Display
 ![Question Display](Assets/Question_display.png)
-
-### 📝 Answer Section
-![image alt](https://github.com/santolinrashitha-lab/AI-Interview-Intelligence-System/blob/main/Answer.png)
-
-### 📊 Score Output
 ![Score](Assets/Score.png)
-
-### 🔄 Change Role Feature
 ![Change Role](Assets/Change_Role.png)
-
-### ✨ Improved Answer Suggestion
 ![Improved Answer](Assets/Improved_Answer.png)
-
-### 📈 Overall Performance Summary
 ![Overall Performance](Assets/Overall_Performance.png)
-
-### 📊 Performance Dashboard
 ![Performance Dashboard](Assets/Performance_Dashboard.png)
-
-### 💪 Strength & Weakness Analysis
 ![Strength Weakness](Assets/Strength_Weakness.png)
-
