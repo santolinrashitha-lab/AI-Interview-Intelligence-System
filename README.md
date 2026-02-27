@@ -204,25 +204,33 @@ DATA_PATH=data/interview_history/
 ## 📸 Application Screenshots
 
 ### 🖥️ Main Interface
-![UI](Assets/UI.png)
+![UI](https://raw.githubusercontent.com/santolinrashitha-lab/AI-Interview-Intelligence-System/main/Assets/UI.png)
 
-### 🎯 Select Interview Round
-![Select Round](Assets/Select_Interview_Round.png)
+### Select_Interview_Round
 
-### ❓ Question Display
-![Question](Assets/Question_display.png)
+![Select Round](https://raw.githubusercontent.com/santolinrashitha-lab/AI-Interview-Intelligence-System/main/Assets/Select_Interview_Round.png)
 
-### ✍️ Answer Evaluation
-![Answer](Assets/Answer.png)
+### Question_Display
 
-### 📊 Score
-![Score](Assets/Score.png)
+![Question](https://raw.githubusercontent.com/santolinrashitha-lab/AI-Interview-Intelligence-System/main/Assets/Question_display.png)
 
-### 📈 Performance Dashboard
-![Dashboard](Assets/Performance_Dashboard.png)
+### Answer
 
-### 💪 Strength & Weakness Analysis
-![Strength](Assets/Strength_Weakness.png)
+![Answer](https://raw.githubusercontent.com/santolinrashitha-lab/AI-Interview-Intelligence-System/main/Assets/Answer.png)
 
-### 🏁 Overall Performance
-![Overall](Assets/Overall_Performance.png)
+### Score
+
+![Score](https://raw.githubusercontent.com/santolinrashitha-lab/AI-Interview-Intelligence-System/main/Assets/Score.png)
+
+### Dashboard
+
+![Dashboard](https://raw.githubusercontent.com/santolinrashitha-lab/AI-Interview-Intelligence-System/main/Assets/Performance_Dashboard.png)
+
+### Strength
+
+![Strength](https://raw.githubusercontent.com/santolinrashitha-lab/AI-Interview-Intelligence-System/main/Assets/Strength_Weakness.png)
+
+### Performance
+
+![Overall](https://raw.githubusercontent.com/santolinrashitha-lab/AI-Interview-Intelligence-System/main/Assets/Overall_Performance.png)
+
